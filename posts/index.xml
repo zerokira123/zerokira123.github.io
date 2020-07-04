@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ANEES</title>
+    <link>https://zerokira123.github.io/posts/</link>
+    <description>Recent content in Posts on ANEES</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Jul 2020 05:59:17 +0530</lastBuildDate>
+    
+	<atom:link href="https://zerokira123.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MY WEBSITE CREATED</title>
+      <link>https://zerokira123.github.io/posts/my-website-created/</link>
+      <pubDate>Sat, 04 Jul 2020 05:59:17 +0530</pubDate>
+      
+      <guid>https://zerokira123.github.io/posts/my-website-created/</guid>
+      <description>A NEW HOBBY so i created this new website and found that its very intresting to create something like this cureently this website is still underdevlopement but don&amp;rsquo;t worry i will fill that gab soon
+THANKS 😊</description>
+    </item>
+    
+  </channel>
+</rss>

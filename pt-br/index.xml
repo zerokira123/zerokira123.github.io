@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>アニース　ムハンマド</title>
+    <link>https://zerokira123.github.io/pt-br/</link>
+    <description>Recent content on アニース　ムハンマド</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://zerokira123.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>プロジェクト</title>
+      <link>https://zerokira123.github.io/pt-br/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerokira123.github.io/pt-br/projects/</guid>
+      <description>ここにはまだ何もありません!.</description>
+    </item>
+    
+    <item>
+      <title>私について</title>
+      <link>https://zerokira123.github.io/pt-br/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerokira123.github.io/pt-br/about/</guid>
+      <description>プログランミングのヌーブです 私はたくさんの夢を持つ普通の人です。 プログラミングは非常に興味深いことがわかりました。 時々めちゃくちゃ難しいと時々めちゃくちゃ面白いの原因になります。 プログラミングは大変ですが、でも私は疲れません。
+大好きなな日本 日本が好きです。 最初はアニメから始まりましたが、今では日本のすべてが好きになりました
+エスケープ・トゥ・ジャパン 私は日本が好きだと言ったように私がそこに住むことができるようにそこで働きたいです 現在日本語を勉強するのは難しいですが、頑張らなければなりません😊.</description>
+    </item>
+    
+    <item>
+      <title>連絡先</title>
+      <link>https://zerokira123.github.io/pt-br/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zerokira123.github.io/pt-br/contact/</guid>
+      <description>@anees_0_1に従ってください.</description>
+    </item>
+    
+  </channel>
+</rss>

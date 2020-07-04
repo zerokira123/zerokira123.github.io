@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://zerokira123.github.io/</loc>
+    <lastmod>2020-07-04T05:59:17+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zerokira123.github.io/pt-br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zerokira123.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zerokira123.github.io/posts/my-website-created/</loc>
+    <lastmod>2020-07-04T05:59:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zerokira123.github.io/posts/</loc>
+    <lastmod>2020-07-04T05:59:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zerokira123.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zerokira123.github.io/pt-br/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zerokira123.github.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zerokira123.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zerokira123.github.io/pt-br/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zerokira123.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zerokira123.github.io/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zerokira123.github.io/pt-br/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zerokira123.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zerokira123.github.io/snippets/first/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zerokira123.github.io/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zerokira123.github.io/pt-br/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zerokira123.github.io/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zerokira123.github.io/snippets/second/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zerokira123.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zerokira123.github.io/pt-br/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zerokira123.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zerokira123.github.io/snippets/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zerokira123.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://zerokira123.github.io/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zerokira123.github.io/tags/"
+                />
+  </url>
+  
+</urlset>
